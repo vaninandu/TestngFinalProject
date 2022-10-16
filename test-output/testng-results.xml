@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24592" started-at="2022-10-13T03:57:06Z" finished-at="2022-10-13T03:57:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24592" started-at="2022-10-13T03:57:06Z" finished-at="2022-10-13T03:57:30Z">
+      <class name="test.addCategoryTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:test.addCategoryTest@56a6d5a6]" name="init" is-config="true" duration-ms="3527" started-at="2022-10-13T03:57:06Z" finished-at="2022-10-13T03:57:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="validateUserAbleToAddCategory()[pri:1, instance:test.addCategoryTest@56a6d5a6]" name="validateUserAbleToAddCategory" duration-ms="9664" started-at="2022-10-13T03:57:09Z" finished-at="2022-10-13T03:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserAbleToAddCategory -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.addCategoryTest@56a6d5a6]" name="tearDown" is-config="true" duration-ms="843" started-at="2022-10-13T03:57:19Z" finished-at="2022-10-13T03:57:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:test.addCategoryTest@56a6d5a6]" name="init" is-config="true" duration-ms="3282" started-at="2022-10-13T03:57:20Z" finished-at="2022-10-13T03:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="validateUserNotAbleToAddDuplicateCategory()[pri:2, instance:test.addCategoryTest@56a6d5a6]" name="validateUserNotAbleToAddDuplicateCategory" duration-ms="1223" started-at="2022-10-13T03:57:23Z" finished-at="2022-10-13T03:57:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserNotAbleToAddDuplicateCategory -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.addCategoryTest@56a6d5a6]" name="tearDown" is-config="true" duration-ms="809" started-at="2022-10-13T03:57:24Z" finished-at="2022-10-13T03:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:test.addCategoryTest@56a6d5a6]" name="init" is-config="true" duration-ms="2765" started-at="2022-10-13T03:57:25Z" finished-at="2022-10-13T03:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="validateMonthDropDown()[pri:3, instance:test.addCategoryTest@56a6d5a6]" name="validateMonthDropDown" duration-ms="1550" started-at="2022-10-13T03:57:28Z" finished-at="2022-10-13T03:57:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMonthDropDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.addCategoryTest@56a6d5a6]" name="tearDown" is-config="true" duration-ms="882" started-at="2022-10-13T03:57:30Z" finished-at="2022-10-13T03:57:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.addCategoryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
