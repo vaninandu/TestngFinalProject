@@ -6,7 +6,10 @@
       <class name="test.addCategoryTest">
         <methods>
           <include name="validateUserAbleToAddCategory"/>
+          <include name="tearDown"/>
+          <include name="validateMonthDropDown"/>
           <include name="init"/>
+          <include name="validateUserNotAbleToAddDuplicateCategory"/>
         </methods>
       </class> <!-- test.addCategoryTest -->
     </classes>
